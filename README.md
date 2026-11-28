@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">GPT-Rankings</h1>
-<p align="center"><strong>国内 GPT API 中转站排行榜 · 更新日期:2026.11.22</strong></p>
+<p align="center"><strong>国内 GPT API 中转站排行榜 · 更新日期:2026.11.28</strong></p>
 
 <p align="center">
   <a href="#overview"><img alt="收录站点: 150" src="https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E7%AB%99%E7%82%B9-150-377DFF?style=flat-square" /></a>
